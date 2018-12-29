@@ -10,3 +10,5 @@ BCREC - Dr. B.C. Roy Engineering College
 ## Modules Used
 * jQuery
 * Bootstrap
+## Self Promotion
+Follow me on [GitHub](https://github.com/surajkumar88).
